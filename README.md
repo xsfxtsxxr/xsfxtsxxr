@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xsfxtsxxr&show_icons=true&theme=radical)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xsfxtsxxr)](https://github.com/xsfxtsxxr/github-readme-stats)
 
 <!--
 **xsfxtsxxr/xsfxtsxxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
