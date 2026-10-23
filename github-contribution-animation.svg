@@ -702,6 +702,7 @@
       <set attributeName="fill" to="#ebedf0" begin="s74.end+0.12s"/>
     </circle>
     <circle cx="735" cy="63" r="6" fill="#40c463"/>
+    <circle cx="735" cy="77" r="6" fill="#ebedf0"/>
 
   <!-- bullets -->
   
