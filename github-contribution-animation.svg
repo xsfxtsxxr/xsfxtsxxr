@@ -699,7 +699,8 @@
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s74.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#ebedf0" begin="s74.end+0.12s"/>
     </circle>
-    <circle cx="735" cy="35" r="6" fill="#9be9a8"/>
+    <circle cx="735" cy="35" r="6" fill="#40c463"/>
+    <circle cx="735" cy="49" r="6" fill="#ebedf0"/>
 
   <!-- bullets -->
   
